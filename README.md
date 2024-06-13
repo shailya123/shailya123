@@ -5,9 +5,9 @@
 
 ---
 
-- 🔭 I’m currently working at **Nagarro**
+- 🔭 I’m currently working at **AMG**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **exiciting and challenging projects**
 
