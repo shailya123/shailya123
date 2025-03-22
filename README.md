@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shailya-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailya-chauhan" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/Shailya04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishu_yash" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shailya6019506/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishu_yash" height="30" width="40" /></a>
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
 
