@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **UBER**
 
-- 🌱 I’m currently learning **ReacrJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **exiciting and challenging projects**
 
